@@ -1,0 +1,9 @@
+.btn{
+  background-color: #865036;
+  color: #ffffff;
+  border: none;
+  /* float: right; */
+}
+.row{
+  padding: 0 10px;
+}

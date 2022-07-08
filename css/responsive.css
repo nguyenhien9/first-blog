@@ -1,0 +1,38 @@
+@media screen and (max-width:768px){
+    .tablet-nav{
+        display: none;
+    }
+    .navbar{
+        display: block;
+    }
+    .btn{
+        float: right;
+    }
+    .row img{
+        width: 100%;
+    }
+    #header2{
+        text-align: left;
+    }
+    footer{
+        text-align: center;
+    }
+
+   
+}
+
+@media screen and (min-width:769px) and (max-width:992px) {
+    .navbar{
+        display: none;
+    }
+    .btn{
+        float: right;
+    }
+    footer{
+        text-align: center;
+    }
+    #header2{
+        text-align: left;
+    }
+    
+}
